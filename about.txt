@@ -1,0 +1,4 @@
+Anusha palepu
+roll no:02
+course:BSC maths
+github is used to store files. it is a repositary
